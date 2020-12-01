@@ -1,2 +1,3 @@
 Hello world.
-Git practice
+Git practice.
+New lines at the end of file.
